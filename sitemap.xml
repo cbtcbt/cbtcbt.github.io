@@ -2,28 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://qianxian.me/test-one/</loc>
+    <loc>qianxian.me/guide/</loc>
     
-    <lastmod>2018-11-06T08:24:54.150Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qianxian.me/hello-world/</loc>
-    
-    <lastmod>2018-11-06T07:29:43.043Z</lastmod>
+    <lastmod>2018-11-13T14:22:51.776Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://qianxian.me/tags/index.html</loc>
+    <loc>qianxian.me/categories/index.html</loc>
+    
+    <lastmod>2018-11-09T22:44:54.255Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>qianxian.me/category/index.html</loc>
+    
+    <lastmod>2018-11-09T22:04:35.388Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>qianxian.me/tags/index.html</loc>
     
     <lastmod>2018-11-05T13:47:05.961Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://qianxian.me/about/index.html</loc>
+    <loc>qianxian.me/about/index.html</loc>
     
     <lastmod>2018-11-05T13:46:11.985Z</lastmod>
     
