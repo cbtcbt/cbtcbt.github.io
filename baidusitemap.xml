@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>qianxian.me/prologue/</loc>
-    <lastmod>2019-04-25T18:34:07.925Z</lastmod>
-  </url>  <url>
-    <loc>qianxian.me/guide/</loc>
-    <lastmod>2019-04-25T18:32:18.769Z</lastmod>
+    <loc>qianxian.me/avoid-keng/</loc>
+    <lastmod>2019-05-04T06:57:50.861Z</lastmod>
   </url>  <url>
     <loc>qianxian.me/best-photo-practice/</loc>
-    <lastmod>2019-04-25T18:29:28.937Z</lastmod>
+    <lastmod>2019-05-04T06:55:59.631Z</lastmod>
+  </url>  <url>
+    <loc>qianxian.me/guide/</loc>
+    <lastmod>2019-05-04T06:55:57.547Z</lastmod>
+  </url>  <url>
+    <loc>qianxian.me/prologue/</loc>
+    <lastmod>2019-05-04T06:55:49.063Z</lastmod>
   </url>  <url>
     <loc>qianxian.me/single_info/</loc>
-    <lastmod>2019-04-25T18:24:18.561Z</lastmod>
+    <lastmod>2019-05-04T06:55:41.095Z</lastmod>
   </url>
 </urlset>
